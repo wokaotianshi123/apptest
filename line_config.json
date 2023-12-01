@@ -1,27 +1,28 @@
 {
   "storeHouse": [
     {
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
-        "sourceName": "自用線路1-TV"
+         "sourceName": "自用線路1-TV",
+        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt"
+     
     },
-    {
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
-        "sourceName": "自用線路1-AV"
+    {     "sourceName": "自用線路1-AV",
+        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt"
+   
  
     },
-    {
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
-        "sourceName": "自用線路2-AV"
+    {        "sourceName": "自用線路2-AV",
+        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json"
+
  
     },
-    {
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
-        "sourceName": "資源線路3-18+"
+    {        "sourceName": "資源線路3-18+",
+        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h"
+
  
     },
-    {
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
-        "sourceName": "線路3-AV"
+    {        "sourceName": "線路3-AV",
+        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt"
+
  
     }
 ]

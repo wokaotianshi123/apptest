@@ -1,29 +1,31 @@
-{
-  "storeHouse": [
+[
     {
-         "sourceName": "自用線路1-TV",
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt"
-     
+        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
+        "title": "自用線路1-TV",
+        "time": "2023-09-20"
     },
-    {     "sourceName": "自用線路1-AV",
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt"
-   
+    {
+        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+        "title": "自用線路1-AV",
+        "time": "2023-09-21"
  
     },
-    {        "sourceName": "自用線路2-AV",
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json"
-
+    {
+        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
+        "title": "自用線路2-AV",
+        "time": "2023-11-27"
  
     },
-    {        "sourceName": "資源線路3-18+",
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h"
-
+    {
+        "url": "https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
+        "title": "資源線路3-18+",
+        "time": "2022-11-10 "
  
     },
-    {        "sourceName": "線路3-AV",
-        "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt"
-
+    {
+        "url": "https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
+        "title": "線路3-AV",
+        "time": "2022-11-10 "
  
     }
 ]
-  }
